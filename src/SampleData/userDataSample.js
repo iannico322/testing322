@@ -1,0 +1,152 @@
+export const userData = [
+    {
+      name: "LadyMaxine Y. Sarsalijo",
+      org: "SITE",
+      position: "Academic Unit Organization Officer",
+      email: "maxine@gmail.com",
+    },
+    {
+      name: "Angel Rose Naval",
+      org: "Society of Information Technology Enthusiasts",
+      position: "Unit Organization Officer",
+      email: "angel.rose.naval@ustp.edu.ph",
+    },
+    {
+      name: "Geraldine Blanco",
+      org: "Society of Information Technology Enthusiasts",
+      position: "Organization Moderator",
+      email: "geraldine.blanco@ustp.edu.ph",
+    },
+    {
+      name: "Love Jhoye M. Raboy",
+      org: "Faculty",
+      position: "College Dean",
+      email: "love.raboy@ustp.edu.ph",
+    },
+    {
+      name: "Floreto M. Quinito Jr.",
+      org: "Office of Student Affairs",
+      position: "Director",
+      email: "floreto.quinito@ustp.edu.ph",
+    },
+    {
+      name: "Nico Caulin.",
+      org: "Office of Handsome Affairs",
+      position: "Founder",
+      email: "nico@gmail.com",
+    },
+    ,
+    {
+      name: "Charles Darwin",
+      org: "Science and Evolution",
+      position: "Director",
+      email: "darwin@gmail.com",
+    },
+    {
+      name: "Lebron James",
+      org: "Sports",
+      position: "Coach",
+      email: "lebron.james@gmail.com",
+    },
+    {
+      name: "Elon Musk",
+      org: "Rocket Science",
+      position: "President",
+      email: "rocket69@gmail.com",
+    },
+    {
+      name: "Johnny Bravo",
+      org: "Science of Rizz",
+      position: "Best Man",
+      email: "bravo@gmail.com",
+    },
+    {
+      name: "Mojo Jo jo",
+      org: "Banana Innovation",
+      position: "Chemical X Wizard",
+      email: "banana@gmail.com",
+    },
+    {
+      name: "Mojo Jo jo",
+      org: "Banana Innovation",
+      position: "Chemical X Wizard",
+      email: "banana@gmail.com",
+    },{
+      name: "Charles Darwin",
+      org: "Science and Evolution",
+      position: "Director",
+      email: "darwin@gmail.com",
+    },
+    {
+      name: "Lebron James",
+      org: "Sports",
+      position: "Coach",
+      email: "lebron.james@gmail.com",
+    },
+    {
+      name: "Elon Musk",
+      org: "Rocket Science",
+      position: "President",
+      email: "rocket69@gmail.com",
+    },
+    {
+      name: "Johnny Bravo",
+      org: "Science of Rizz",
+      position: "Best Man",
+      email: "bravo@gmail.com",
+    },
+    {
+      name: "Mojo Jo jo",
+      org: "Banana Innovation",
+      position: "Chemical X Wizard",
+      email: "banana@gmail.com",
+    },
+    {
+      name: "Mojo Jo jo",
+      org: "Banana Innovation",
+      position: "Chemical X Wizard",
+      email: "banana@gmail.com",
+    },{
+      name: "Mojo Jo jo",
+      org: "Banana Innovation",
+      position: "Chemical X Wizard",
+      email: "banana@gmail.com",
+    },
+    {
+      name: "Lebron James",
+      org: "Sports",
+      position: "Coach",
+      email: "lebron.james@gmail.com",
+    },
+    {
+      name: "Elon Musk",
+      org: "Rocket Science",
+      position: "President",
+      email: "rocket69@gmail.com",
+    },
+    {
+      name: "Johnny Bravo",
+      org: "Science of Rizz",
+      position: "Best Man",
+      email: "bravo@gmail.com",
+    },
+    {
+      name: "Mojo Jo jo",
+      org: "Banana Innovation",
+      position: "Chemical X Wizard",
+      email: "banana@gmail.com",
+    },
+    {
+      name: "Mojo Jo jo",
+      org: "Banana Innovation",
+      position: "Chemical X Wizard",
+      email: "banana@gmail.com",
+    },{
+      name: "Mojo Jo jo",
+      org: "Banana Innovation",
+      position: "Chemical X Wizard",
+      email: "banana@gmail.com",
+    },
+    
+    
+  ];
